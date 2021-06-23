@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-- Bu repo [kodluyoruz]() Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet # README dosyası, bir adet de index.html bulunuyor.
+- Bu repo [kodluyoruz]() Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html bulunuyor.
 
 # Installation
 
